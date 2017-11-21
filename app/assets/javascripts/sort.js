@@ -29,7 +29,7 @@ $( document ).ready(function() {
 	        size: 20
 	    });
 		$('#search').quicksearch('table tbody tr', {
-		    delay: 500,
+		    delay: 5,
 		    selector: ".email",
 		    'bind': 'keyup keydown',
 		    show: function () {
