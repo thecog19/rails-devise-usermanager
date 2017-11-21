@@ -12,5 +12,8 @@
 //
 //= require rails-ujs
 //= require turbolinks
+//= require jquery
+//= require jquery-tablesorter
+//= require jquery-tablesorter/addons/pager/jquery.tablesorter.pager
 //= require bootstrap-sprockets
 //= require_tree .
